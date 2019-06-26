@@ -1,2 +1,0 @@
-# nrsfastsyst
-Tevafuncionar
